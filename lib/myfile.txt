@@ -1,4 +1,4 @@
 i am quite sure
-that within mydir
+that within lib
 resides myfile,
 patiently immobile
