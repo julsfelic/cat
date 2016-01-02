@@ -25,3 +25,13 @@ class CatAcceptanceTest < Minitest::Test
     assert_equal expected, printed
   end
 end
+
+class CatTest < Minitest::Test
+  def test_receives_one_file_and_formats_output
+    skip
+  end
+
+  def test_receives_two_files_and_formats_output
+    skip
+  end
+end
